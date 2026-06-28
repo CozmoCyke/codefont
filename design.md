@@ -270,3 +270,4 @@ So the basic answer is: **compile a fixed-capacity QR encoder into thousands of 
 [4]: https://learn.microsoft.com/en-us/typography/opentype/spec/gpos?utm_source=chatgpt.com "GPOS — Glyph Positioning Table (OpenType 1.9.1)"
 [5]: https://fonttools.readthedocs.io/en/latest/feaLib/index.html?highlight=baseline&utm_source=chatgpt.com "feaLib: Read and write OpenType feature files — fontTools Documentation"
 [6]: https://learn.microsoft.com/en-us/typography/truetype/hinting?utm_source=chatgpt.com "TrueType hinting - Typography | Microsoft Learn"
+
